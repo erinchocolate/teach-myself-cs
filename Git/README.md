@@ -17,7 +17,9 @@
 - Write your own Git
   - [Write yourself a Git](https://wyag.thb.lt/)
 
-## How Git works
+
+
+## How Git Works
 
 ### Data model (pseudocode)
 
