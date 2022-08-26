@@ -24,5 +24,5 @@ This project includes my study plan, notes and resources I use when I study each
 - [Python](https://github.com/erinchocolate/teach-myself-programming/tree/master/Python)
 - Java
 - JavaScript
-- HTML & CSS
+- [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/tree/master/HTML%26CSS)
 
