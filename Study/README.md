@@ -25,13 +25,13 @@
 
 ## Study Note 
 
-- [How to start ](#How to start )
-- [How to study a new language](#How to study a new language)
-- [Skills to learn and practice](#Skills to learn and practice)
-- [Build personal curriculum](#Build personal curriculum)
-- [How to use LeetCode](#How to use LeetCode)
-- [How to ask good questions](#How to ask good questions)
-- [How to report a bug](#How to report a bug)
+- [How to start ](#How-to-start )
+- [How to study a new language](#How-to-study-a-new-language)
+- [Skills to learn and practice](#Skills-to-learn-and-practice)
+- [Build personal curriculum](#Build-personal-curriculum)
+- [How to use LeetCode](#How-to-use-LeetCode)
+- [How to ask good questions](#How-to-ask-good-questions)
+- [How to report a bug](#How-to-report-a-bug)
 
 
 
