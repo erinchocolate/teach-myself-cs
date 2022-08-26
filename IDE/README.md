@@ -1,6 +1,6 @@
 # IDE
 
-## How to study
+## What to study - resources I find helpful
 
 Visual Studio Code
 
@@ -31,6 +31,6 @@ IntelliJ
 - [Top 15 IntelliJ IDEA shortcuts](https://www.youtube.com/watch?v=QYO5_riePOQ)
 
 
-## Shortcut
+## Shortcut - Keys I find useful
 
 [Visual Studio Code](https://github.com/erinchocolate/teach-myself-programming/blob/master/IDE/VSCode.md)

@@ -1,6 +1,6 @@
 # Version Control (Git)
 
-## How to study
+## What to study - resources I find helpful
 
 - Basic commands 
   - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
@@ -16,6 +16,15 @@
   - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 - Write your own Git
   - [Write yourself a Git](https://wyag.thb.lt/)
+
+
+
+## Study Note 
+
+- [How Git Works](#How Git Works)
+- [Git commands](#Git commands)
+- [Github](#Github)
+- [Branch Strategy](#Branch Strategy)
 
 
 
@@ -85,6 +94,8 @@ Git *repository* is the data `objects` and `references`.
 
 It's why we have `git add` and `git commit` two separate commands.
 
+
+
 ## Git commands
 
 ### Basic
@@ -142,6 +153,8 @@ It's why we have `git add` and `git commit` two separate commands.
   - How to undo a conflict and start over: `git merge --abort` or `git rebase --abort`
   - How to solve a conflict: simply clean the file and commit
 
+
+
 ## Github
 
 - Pull request
@@ -153,6 +166,8 @@ It's why we have `git add` and `git commit` two separate commands.
   - Creating a Fork of the original repository, where you can make changes and suggest those changes to be included via a Pull Request
 - Github Action
   - [5 Ways to DevOps-ify your App](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+
+
 
 ## Branch strategy
 

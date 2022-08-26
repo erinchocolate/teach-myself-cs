@@ -1,5 +1,28 @@
 # Python
 
+## What to study - resources I find helpful
+
+- Fundamental
+  - [Computational Thinking using Python](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
+  - [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+  - [Intermediate Python Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv)
+- Advanced
+  - [Python Tips](https://book.pythontips.com/en/latest/index.html)
+  - [Expert Python Tutorials](https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP)
+  - [Python Classes & Objects Tutorial](https://www.youtube.com/watch?v=v_Jp11xqCzg&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt)
+  - [Python Object-Oriented Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
+
+
+## Study Note 
+
+- [Fundamental](#Fundamental)
+- [Advanced](#Advanced)
+- [Standard Library](#Standard Library)
+- [Framework]()
+
+
+
 ## Fundamental
 
 Variable
@@ -13,9 +36,14 @@ Operators
 
 Conditions
 
-- If
-- elif
-- else
+- `If`
+- `elif`
+- `else`
+
+Function
+
+- `return`
+- `global`
 
 Loops
 
@@ -26,93 +54,210 @@ Loops
 
 Exception
 
-- Try
-- Except
+- `try`
+- `except`
+- `raise`
+- `finally`
 
 File object
 
 - Read
 - Write
 
-List
+Data Structures
 
-- The items have a defined order, and that order will not change
-- The list is changeable, meaning that we can change, add, and remove items in a list after it has been created
-- Since lists are indexed, lists can have items with the same value
+- List	
 
-Dictionary
+  - Ordered
 
-- Unordered means that the items does not have a defined order, you cannot refer to an item by using an index
-- Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created
-- Dictionaries cannot have two items with the same key
+  - Changeable
 
-Set
+  - Allow Duplicates
 
-- Set items can appear in a different order every time you use them, and cannot be referred to by index or key
-- Set items are unchangeable, meaning that we cannot change the items after the set has been created
-- Sets cannot have two items with the same value
 
-Tuple
+- Dictionary
 
-- The items have a defined order, and that order will not change
-- Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created
-- Since tuples are indexed, they can have items with the same value
+  - Ordered after python 3.7
+
+  - Changeable
+
+  - Duplicates Not Allowed
+
+
+- Set
+
+  - Unordered
+
+  - Unchangeable
+
+  - Duplicates Not Allowed
+
+
+- Tuple
+
+  - Ordered
+
+  - Unchangeable
+
+  - Allow Duplicates
 
 Iterators
 
-- [Python Tutorial: Iterators and Iterables](https://www.youtube.com/watch?v=jTYiNjvnHZY)
+- Iterable
+  - Any object which has methods:
+    - `__iter__`
+    - `__getitem__`
+  - In short an `iterable` is any object which can provide us with an **iterator**.
+- Iterator
+  - Any object which has methods:
+  - `__next__`
+- Iteration
+  - When we use a loop to loop over something it is called iteration
 
 Generators
 
-- [Python Generators Explained](https://www.youtube.com/watch?v=u3T7hmLthUU)
+- Generators are iterators, but you can only iterate over them once
+
+- Generators do not store all the values in memory, they generate the values on the fly
+
+  - `yield`
+
+  - [Python Generators Explained](https://www.youtube.com/watch?v=u3T7hmLthUU)
+
 
 ## Advanced
+
+args and kwargs
+
+Collections
+
+- `defaultdict`
+- `OrderedDict`
+- `Counter`
+- `deque`
+- `namedtuple`
+- `enum.Enum`
+
+Enumerate
+
+- It allows us to loop over something and have an automatic counter
+
+Zip and unzip
+
+- Zip is a useful function that allows you to combine two lists easily
+
+Object introspection
+
+- introspection is the ability to determine the type of an object at runtime
+- `dir`
+- `type`
+- `id`
+- `inspect` module
+
+Comprehensions
+
+- Comprehensions are constructs that allow sequences to be built from other sequences
+
+  - list comprehensions
+
+    - ```python
+      variable = [out_exp for out_exp in input_list if out_exp == 2]
+      ```
+
+  - dictionary comprehensions
+
+    - ```python
+      {v: k for k, v in some_dict.items()}
+      ```
+
+  - set comprehensions
+
+    - ```python
+      squared = {x**2 for x in [1, 1, 2]}
+      print(squared)
+      # Output: {1, 4}
+      ```
+
+  - generator comprehensions
+
+    - ```python
+      multiples_gen = (i for i in range(30) if i % 3 == 0)
+      print(multiples_gen)
+      # Output: <generator object <genexpr> at 0x7fdaa8e407d8>
+      for x in multiples_gen:	
+        print(x)
+        # Outputs numbers
+      ```
 
 OOP
 
 - Classes and objects
-
 - Class methods and object methods
-
-- Decorators
 - Magic methods
+- Inheritance
+
+Decorators
+
+- they are functions which modify the functionality of other function
 
 Context manager
 
+- `with`
+
 - [Python Tutorial: Context Managers - Efficiently Managing Resources](https://www.youtube.com/watch?v=-aKFBoZpiqA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=50)
+
+For/else loop
+
+- ```python
+  for item in container:
+      if search_something(item):
+          # Found it!
+          process(item)
+          break
+  else:
+      # Didn't find anything..
+      not_found_in_container()
+  ```
 
 Lambda 
 
-- [Intermediate Python Tutorial #5 - Lambda Functions](https://www.youtube.com/watch?v=BcbVe1r2CYc)
+- small anonymous function
+
+  - ```python
+    add = lambda x, y: x + y
+    
+    print(add(3, 5))
+    # Output: 8
+    ```
 
 String formatting
 
-- [Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=36)
+- format()
+- f string
+  - [Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=36)
 
-Pep8
 
-- [Write Python Code Properly!](https://www.youtube.com/watch?v=D4_s3q038I0&t=13s)
+Clean code
 
-Tips
+- Pep8 is a styleguide for python
 
-- [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk)
-- [20 Python Tips and Tricks - Why We Love Python](https://www.youtube.com/watch?v=sbtbIqEG4nI)
+- [Write Python Code Properly](https://www.youtube.com/watch?v=D4_s3q038I0&t=13s)
+
+Virtual Environment
+
+- make isolated python environments
+- virtualenv
+  - [Python Tutorial: virtualenv and why you should use virtual environments](https://www.youtube.com/watch?v=N5vscPTWKOk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=15)
+- pipenv
+  - [Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments](https://www.youtube.com/watch?v=zDYL22QNiWk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=59)
+- venv
+  - [Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=APOPm01BVrk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=107)
 
 ## Standard Library
 
 Pip
 
 - [Python Tutorial: pip - An in-depth look at the package management system](https://www.youtube.com/watch?v=U2ZN104hIcc)
-
-Virtual Environment
-
-- virtualenv
-  - [Python Tutorial: virtualenv and why you should use virtual environments](https://www.youtube.com/watch?v=N5vscPTWKOk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=15)
-- pipenv
-  - [Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments](https://www.youtube.com/watch?v=zDYL22QNiWk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=59)
-
-- venv
-  - [Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=APOPm01BVrk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=107)
 
 Logging
 
