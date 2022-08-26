@@ -7,7 +7,8 @@ Visual Studio Code
 - Frontend Development
   - [How I setup VS Code for a beginners front-end workflow](https://www.youtube.com/watch?v=aydFCQiUW44)
   - [Write code faster in VS Code with Emmet shortcuts](https://www.youtube.com/watch?v=45eWEO0gRHI)
-
+  - [VS Code extensions that I can't live without](https://www.youtube.com/watch?v=plEwInSiqgw)
+  
 - Python Development
   - [Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 - Shortcuts
