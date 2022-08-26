@@ -1,6 +1,9 @@
 # Teach Myself Programming
 
 This project includes my study plan, notes and resources I use when I study each programming topic. 
+## How To
+
+- [Study programming](https://github.com/erinchocolate/teach-myself-programming/tree/master/Study)
 
 ## Tools
 
