@@ -4,7 +4,7 @@ This project includes my study plan, notes and resources I use when I study each
 
 ## Tools
 
-Git
+[Git](https://github.com/erinchocolate/teach-myself-programming/tree/master/Git)
 
 Vim
 
