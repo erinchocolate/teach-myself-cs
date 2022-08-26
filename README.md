@@ -17,15 +17,12 @@ This project includes my study plan, notes and resources I use when I study each
 
 - Shell 
 
-## Languages
+## Programming
+
+- Programming
 
 - [Python](https://github.com/erinchocolate/teach-myself-programming/tree/master/Python)
-
 - Java
-
 - JavaScript
-
-- HTML
-
-- CSS
+- HTML & CSS
 
