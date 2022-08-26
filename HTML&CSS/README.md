@@ -66,7 +66,7 @@ Units
 Box model
 
 - Every box is composed of four parts (or *areas*), defined by their respective edges: the *content edge*, *padding edge*, *border edge*, and *margin edge*
-- ![Box-model](C:\Users\chenm\Downloads\github\teach-myself-programming\HTML&CSS\Box-model.PNG)
+- ![Box-model](https://github.com/erinchocolate/teach-myself-programming/blob/master/HTML%26CSS/Box-model.PNG)
 
 Layout
 
