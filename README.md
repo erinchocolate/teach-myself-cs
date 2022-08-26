@@ -16,7 +16,7 @@ This project includes my study plan, notes and resources I use when I study each
 
 ## Languages
 
-- Python
+- [Python](https://github.com/erinchocolate/teach-myself-programming/tree/master/Python)
 
 - Java
 
