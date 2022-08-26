@@ -4,23 +4,23 @@ This project includes my study plan, notes and resources I use when I study each
 
 ## Tools
 
-[Git](https://github.com/erinchocolate/teach-myself-programming/tree/master/Git)
+- [Git](https://github.com/erinchocolate/teach-myself-programming/tree/master/Git)
 
-Vim
+- Vim
 
-Command line
+- Command line
 
-Shell 
+- Shell 
 
 ## Languages
 
-Python
+- Python
 
-Java
+- Java
 
-JavaScript
+- JavaScript
 
-HTML
+- HTML
 
-CSS
+- CSS
 
