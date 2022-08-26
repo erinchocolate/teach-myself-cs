@@ -33,4 +33,4 @@ IntelliJ
 
 ## Shortcut - Keys I find useful
 
-[Visual Studio Code](https://github.com/erinchocolate/teach-myself-programming/blob/master/IDE/VSCode.md)
+[Visual Studio Code](https://github.com/erinchocolate/teach-myself-programming/blob/master/IDE/VSCode%20Shortcut.md)
