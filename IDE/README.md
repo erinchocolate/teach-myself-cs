@@ -31,4 +31,6 @@ IntelliJ
 - [Top 15 IntelliJ IDEA shortcuts](https://www.youtube.com/watch?v=QYO5_riePOQ)
 
 
+## Shortcut
 
+[Visual Studio Code](https://github.com/erinchocolate/teach-myself-programming/blob/master/IDE/VSCode.md)
