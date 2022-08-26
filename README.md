@@ -6,6 +6,8 @@ This project includes my study plan, notes and resources I use when I study each
 
 - [Git](https://github.com/erinchocolate/teach-myself-programming/tree/master/Git)
 
+- IDE
+
 - Vim
 
 - Command line
