@@ -22,7 +22,7 @@ This project includes my study plan, notes and resources I use when I study each
 - Programming
 
 - [Python](https://github.com/erinchocolate/teach-myself-programming/tree/master/Python)
-- Java
+- [Java](https://github.com/erinchocolate/teach-myself-programming/tree/master/Java)
 - JavaScript
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/tree/master/HTML%26CSS)
 
