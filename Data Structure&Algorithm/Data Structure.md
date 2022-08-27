@@ -19,12 +19,15 @@
 
 - An abstract data type is an abstraction of a data structure which provides only the interface to which a data structure must adhere to
 - The interface does not give any specific details about how something should be implemented or in what programming language
+- ![Common ADT](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/Common%20ADT.png)
 
 ### ADT v.s CDT
 
 - Abstract Data Type(ADT) is a data type, where only behavior is defined but not implementation
 - Opposite of ADT is Concrete Data Type (CDT), where it contains an implementation of ADT
 - Array, List, Map, Queue, Set, Stack, Table, Tree, and Vector are ADTs. Each of these ADTs has many implementations i.e. CDT
+- ![ADT](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/ADT.png)
+- ![ADT V.S DS](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/ADT%20v.s%20DS.png)
 
 ### Array v.s Linked List
 
