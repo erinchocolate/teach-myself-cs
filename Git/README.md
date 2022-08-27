@@ -1,6 +1,6 @@
-# Version Control (Git)
+# ⚙️Version Control (Git)
 
-## What to study - resources I find helpful
+## What to study - resources I find helpful📚
 
 - Basic commands 
   - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
@@ -19,7 +19,7 @@
 
 
 
-## Study Note 
+## Study Note ✍️
 
 - [How Git Works](#How Git Works)
 - [Git commands](#Git commands)

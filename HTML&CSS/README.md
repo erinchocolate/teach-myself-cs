@@ -1,6 +1,6 @@
-# HTML&CSS
+# HTML&CSS🌐
 
-## What to study - resources I find helpful
+## What to study - resources I find helpful📚
 
 - Fundamental
   - [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=1)
@@ -28,7 +28,7 @@
   - [Learn how to power-up your CSS with PostCSS](https://www.youtube.com/watch?v=ohJcZW60br0&t=103s)
 
 
-## Study Note 
+## Study Note ✍️
 
 - [Fundamental](#Fundamental)
 - [Advanced](#Advanced)

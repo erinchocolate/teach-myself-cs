@@ -1,6 +1,6 @@
-# IDE
+# IDE🧰
 
-## What to study - resources I find helpful
+## What to study - resources I find helpful📚
 
 Visual Studio Code
 

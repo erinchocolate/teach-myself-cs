@@ -1,6 +1,6 @@
-# Study programming
+# 🚀Study programming
 
-## What to study - resources I find helpful
+## What to study - resources I find helpful📚
 
 - Beginner
   - [learn programming](https://www.reddit.com/r/learnprogramming/wiki/faq/)
@@ -23,7 +23,7 @@
 
 
 
-## Study Note 
+## Study Note✍️
 
 - [How to start ](#How-to-start )
 - [How to study a new language](#How-to-study-a-new-language)

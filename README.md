@@ -1,4 +1,4 @@
-# Teach Myself Programming
+# 🤓Teach Myself Programming
 
 This project includes my study plan, notes and resources I use when I study each programming topic. 
 ## How To
