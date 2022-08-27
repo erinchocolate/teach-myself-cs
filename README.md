@@ -1,6 +1,7 @@
 # 🤓Teach Myself Programming
 
 This project includes my study plan, notes and resources I use when I study each programming topic. 
+
 ## How To
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-programming/tree/master/Study)
@@ -21,3 +22,16 @@ This project includes my study plan, notes and resources I use when I study each
 - JavaScript
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/tree/master/HTML%26CSS)
 
+## Data Structure & Algorithm 
+
+- Data Structure
+
+- Array
+
+- Linked List
+
+- Stack
+
+- Queue
+
+  
