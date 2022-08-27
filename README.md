@@ -4,34 +4,29 @@ This project includes my study plan, notes and resources I use when I study each
 
 ## How To
 
-- [Study programming](https://github.com/erinchocolate/teach-myself-programming/tree/master/Study)
+- [Study programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/How%20To/Study%20programming.md)
 
 ## Tools
 
-- [Git](https://github.com/erinchocolate/teach-myself-programming/tree/master/Git)
-- [IDE](https://github.com/erinchocolate/teach-myself-programming/tree/master/IDE)
+- [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
+- [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
 - Vim
 - Command line
 - Shell 
 
 ## Programming
 
-- [Programming](https://github.com/erinchocolate/teach-myself-programming/tree/master/Programming)
-- [Python](https://github.com/erinchocolate/teach-myself-programming/tree/master/Python)
-- [Java](https://github.com/erinchocolate/teach-myself-programming/tree/master/Java)
+- [Programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Programming.md)
+- [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
+- [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
 - JavaScript
-- [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/tree/master/HTML%26CSS)
+- [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
 
 ## Data Structure & Algorithm 
 
 - Data Structure
-
 - Array
-
 - Linked List
-
 - Stack
-
 - Queue
-
   
