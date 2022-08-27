@@ -27,7 +27,7 @@ This project includes my study plan, notes and resources I use when I study diff
 
 ## Data Structure & Algorithm 
 
-- Data Structure
+- [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
 - Array
 - Linked List
 - Stack
