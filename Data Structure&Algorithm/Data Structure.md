@@ -4,6 +4,31 @@
 
 - Data Structure
   - [Framework and thoughts about learning data structures and algorithms](https://github.com/labuladong/fucking-algorithm/blob/english/think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md)
-  - [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=416s)
+  - [Data Structures & Algorithms #1 - What Are Data Structures?](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=2)
+  - [Abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type)
 
 ## Study Note ✍️
+
+## Data Structure
+
+### What is data structure
+
+- A data structure is a way of organizing data so that it can be used effectively
+
+### What is Abstract Data Type
+
+- An abstract data type is an abstraction of a data structure which provides only the interface to which a data structure must adhere to
+- The interface does not give any specific details about how something should be implemented or in what programming language
+
+### ADT v.s CDT
+
+- Abstract Data Type(ADT) is a data type, where only behavior is defined but not implementation
+- Opposite of ADT is Concrete Data Type (CDT), where it contains an implementation of ADT
+- Array, List, Map, Queue, Set, Stack, Table, Tree, and Vector are ADTs. Each of these ADTs has many implementations i.e. CDT
+
+### Array v.s Linked List
+
+- There are only two ways to store data structures: as arrays (sequential storage) or as linked lists (linked storage)
+- Other data structures can be viewed as special operations on linked lists or arrays
+  - 「queue」 and 「stack」 data structures can be implemented with both linked lists and arrays
+  - A graph can be implemented with both linked lists and arrays. An adjacency table is a linked list, and an adjacency matrix is a two-dimensional array
