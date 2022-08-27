@@ -1,6 +1,6 @@
-# Python
+# 🐍Python
 
-## What to study - resources I find helpful
+## What to study - resources I find helpful📚
 
 - Fundamental
   - [Computational Thinking using Python](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
@@ -14,7 +14,7 @@
 
 
 
-## Study Note 
+## Study Note ✍️
 
 - [Fundamental](#Fundamental)
 - [Advanced](#Advanced)
