@@ -21,10 +21,10 @@
 
 ## Study Note ✍️
 
-- [How Git Works](#How Git Works)
-- [Git commands](#Git commands)
+- [How Git Works](#How-Git-Works)
+- [Git commands](#Git-commands)
 - [Github](#Github)
-- [Branch Strategy](#Branch Strategy)
+- [Branch Strategy](#Branch-Strategy)
 
 
 
