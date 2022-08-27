@@ -12,7 +12,7 @@ This project includes my study plan, notes and resources I use when I study diff
 
 - [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
 - [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
-- Vim
+- [Vim](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/Vim.md)
 - Command line
 - Shell 
 - Docker
