@@ -173,4 +173,4 @@ Streams
 Serialization
 
 Collection framework
-- [!png](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Images/Collections-in-Java.png)
+- ![Collection](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Images/Collections-in-Java.png)
