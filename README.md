@@ -1,10 +1,12 @@
-# 🤓Teach Myself Programming
+# 🤓Teach Myself CS
 
-This project includes my study plan, notes and resources I use when I study each programming topic. 
+This project includes my study plan, notes and resources I use when I study different topic. 
 
 ## How To
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/How%20To/Study%20programming.md)
+- [Setup environment]
+- [Setup Linux]
 
 ## Tools
 
@@ -13,6 +15,7 @@ This project includes my study plan, notes and resources I use when I study each
 - Vim
 - Command line
 - Shell 
+- Docker
 
 ## Programming
 
@@ -29,4 +32,22 @@ This project includes my study plan, notes and resources I use when I study each
 - Linked List
 - Stack
 - Queue
-  
+
+## Computer Architecture
+
+
+
+## Database
+
+
+
+## Computer Network
+
+
+
+## Software Engineer
+
+
+
+## Operating System
+
