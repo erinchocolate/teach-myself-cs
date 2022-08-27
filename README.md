@@ -6,7 +6,7 @@ This project includes my study plan, notes and resources I use when I study diff
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/How%20To/Study%20programming.md)
 - [Setup environment]
-- [Setup Linux]
+- [Setup Linux](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Setup%20Linux.md)
 
 ## Tools
 
