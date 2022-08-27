@@ -35,3 +35,9 @@
 - Other data structures can be viewed as special operations on linked lists or arrays
   - 「queue」 and 「stack」 data structures can be implemented with both linked lists and arrays
   - A graph can be implemented with both linked lists and arrays. An adjacency table is a linked list, and an adjacency matrix is a two-dimensional array
+
+### Operations on data structure
+
+- For any data structure, its basic operation is no more than traversal + access, and more specific point are: add, delete, search and modify
+- There are many kinds of data structures, but their purpose is to add, delete, search and modify them as efficiently as possible in different application scenarios
+- How to traverse + access? Two forms: linear and nonlinear
