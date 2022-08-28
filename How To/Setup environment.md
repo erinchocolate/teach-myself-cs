@@ -9,9 +9,8 @@
 ## Study Note ✍️
 
 - [Terminal Multiplexers](#Terminal-Multiplexers)
-
-- [Dotfiles][#Dotfiles]
-- [Manage Dotfiles][#Manage-Dotfiles]
+- [Dotfiles](#Dotfiles)
+- [Manage Dotfiles](#Manage-Dotfiles)
 - [Shell&Framework](#Shell&Framework)
 - [Terminal Emulator](#Terminal-Emulator)
 - [Other Tools](#Other-Tools)
