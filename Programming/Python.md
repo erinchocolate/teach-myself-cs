@@ -12,7 +12,9 @@
   - [Python Classes & Objects Tutorial](https://www.youtube.com/watch?v=v_Jp11xqCzg&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt)
   - [Python Object-Oriented Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
+## Project  - what I do to study the topic⌨️
 
+- [python-exercise](https://github.com/erinchocolate/python-exercise)
 
 ## Study Note ✍️
 

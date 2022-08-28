@@ -6,6 +6,10 @@
 - [Build A Portable Development Environment](https://www.youtube.com/watch?v=70YMTHAZyy4&list=PL1C97G3GhlHdANMFUIXTcFr14R7b7EBj9)
 - 
 
+## Project  - What I do to study the topic⌨️
+
+- [.dotfiles](https://github.com/erinchocolate/.dotfiles)
+
 ## Study Note ✍️
 
 - [Terminal Multiplexers](#Terminal-Multiplexers)

@@ -27,6 +27,9 @@
   - [Sass, BEM, & Responsive Design](https://www.youtube.com/watch?v=jfMHA8SqUL4)
   - [Learn how to power-up your CSS with PostCSS](https://www.youtube.com/watch?v=ohJcZW60br0&t=103s)
 
+## Project  - what I do to study the topic⌨️
+
+- [frontend-mentor-exercise](https://github.com/erinchocolate/frontend-mentor-exercise)
 
 ## Study Note ✍️
 

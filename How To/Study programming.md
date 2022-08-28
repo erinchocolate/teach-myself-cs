@@ -21,8 +21,6 @@
 - Report bug
   - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 
-
-
 ## Study Note✍️
 
 - [How to start ](#How-to-start )

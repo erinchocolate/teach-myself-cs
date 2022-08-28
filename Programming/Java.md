@@ -7,6 +7,10 @@
   - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=13455s)
   - [Java Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=r3GGV2TG_vw&t=22611s)
 
+## Project  - what I do to study the topic⌨️
+
+- [swen501](https://github.com/erinchocolate/swen501)
+
 ## Study Note ✍️
 
 - [Fundamental](#Fundamental)

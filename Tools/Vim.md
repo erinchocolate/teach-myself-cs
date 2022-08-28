@@ -27,11 +27,15 @@ Others' config
 - https://github.com/craftzdog/dotfiles-public
 - https://github.com/NeuralNine/config-files/blob/master/init.vim
 
+## Project  - what I do to study the topic⌨️
+
+
+
 ## Study Note ✍️
 
-[Fundamental](#Fundamental)
+- [Fundamental](#Fundamental)
 
-[Config](#Config)
+- [Config](#Config)
 
 ## Fundamental
 

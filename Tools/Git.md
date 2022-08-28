@@ -17,7 +17,9 @@
 - Write your own Git
   - [Write yourself a Git](https://wyag.thb.lt/)
 
+## Project  - what I do to study the topic⌨️
 
+- 
 
 ## Study Note ✍️
 
