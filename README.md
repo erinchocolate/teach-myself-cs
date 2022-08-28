@@ -1,6 +1,6 @@
 # 🤓Teach Myself CS
 
-This project includes my study plan, notes and resources I use when I study different topic. 
+This project includes my study notes, resources I use and projects I create when I study different topic. 
 
 ## How To
 
