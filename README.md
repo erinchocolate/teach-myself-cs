@@ -19,7 +19,6 @@ This project includes my study notes, resources I use and projects I create when
 
 ## Programming
 
-- [Programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Programming.md)
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
 - [Python Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
@@ -28,7 +27,7 @@ This project includes my study notes, resources I use and projects I create when
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
 
 ## Data Structure & Algorithm 
-
+- [Data Structure & Algorithm](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Data%20Structure%20and%20Algorithm.md) 
 - [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
 - Array
 - Linked List
