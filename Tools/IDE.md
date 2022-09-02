@@ -2,7 +2,7 @@
 
 ## What to study - resources I find helpful📚
 
-Visual Studio Code
+**Visual Studio Code**
 
 - Frontend Development
   - [How I setup VS Code for a beginners front-end workflow](https://www.youtube.com/watch?v=aydFCQiUW44)
@@ -15,18 +15,18 @@ Visual Studio Code
   - [VSCode Keyboard Shortcuts For Productivity](https://www.youtube.com/watch?v=Xa5EU-qAv-I&t=94s)
   - [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
 
-Pycharm
+**Pycharm**
 
 - [Pycharm Tutorial #1 - Setup & Basics](https://www.youtube.com/watch?v=56bPIGf4us0)
 - [Pycharm Tutorial #2 - Debugging](https://www.youtube.com/watch?v=sRGpvbhOhQs)
 - [Awesome PyCharm Setup - Full Guide](https://www.youtube.com/watch?v=5i-Axn7KgDU)
 
-Eclipse
+**Eclipse**
 
 - [30+ Eclipse Shortcuts Every Java Programmer Should Know](https://www.youtube.com/watch?v=LIGkIGdmHII)
 - [How To Debug Java Code The Right Way - Eclipse Debugger Full Tutorial](https://www.youtube.com/watch?v=aqcJsKdjjvU&t=436s)
 
-IntelliJ
+**IntelliJ**
 
 - [Top 15 IntelliJ IDEA shortcuts](https://www.youtube.com/watch?v=QYO5_riePOQ)
 

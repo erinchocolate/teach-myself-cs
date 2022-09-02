@@ -1,4 +1,4 @@
-# Vim
+# ⌨️Vim
 
 ## What to study - resources I find helpful📚
 

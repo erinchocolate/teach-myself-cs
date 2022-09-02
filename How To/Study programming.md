@@ -2,23 +2,23 @@
 
 ## What to study - resources I find helpful📚
 
-- Beginner
+- **Beginner**
   - [learn programming](https://www.reddit.com/r/learnprogramming/wiki/faq/)
-- Escape tutorial hell
+- **Escape tutorial hell**
   - [Escape Tutorial Hell & Utilize Them In A Better Way](https://www.youtube.com/watch?v=g_aMpyMvQ9k)
-- Study new language
+- **Study new language**
   - [How To Learn a New Programming Language - FAST](https://www.youtube.com/watch?v=LIYGIM7Qd9M)
-- Skills to learn
+- **Skills to learn**
   - [5 Underrated Programming Skills](https://www.youtube.com/watch?v=SZuwBPHKBEE)
-- Build personal curriculum
+- **Build personal curriculum**
   - [The Ultimate Self-Taught Developer Curriculum](https://www.youtube.com/watch?v=vxctuiRlmrs&t=547s)
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   - [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
-- LeetCode
+- **LeetCode**
   - [How to use LeetCode effectively](https://www.youtube.com/watch?v=CltYi33y0ls)
-- Ask question
+- **Ask question**
   - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
-- Report bug
+- **Report bug**
   - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 
 ## Study Note✍️

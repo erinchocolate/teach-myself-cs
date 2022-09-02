@@ -2,7 +2,7 @@
 
 ## What to study - resources I find helpful📚
 
-Install Linux
+**Install Linux**
 
 - Ubuntu-based - Pop OS - [Install Linux instead of Windows 11 - Here's how!](https://www.youtube.com/watch?v=_Ua-d9OeUOg)
 
@@ -10,21 +10,21 @@ Install Linux
   - [得到一台高效利器——最全Linux装机配置教程](https://www.bilibili.com/video/BV1J4411c7mZ?spm_id_from=333.999.0.0&vd_source=feba2df2be8d73a9f79885dece576693)
   - [ArchWiki](https://wiki.archlinux.org/)
 
-Dual Boot Windows and Linux
+**Dual Boot Windows and Linux**
 
 - [The Best Way to Dual Boot Windows and Ubuntu](https://www.youtube.com/watch?v=CWQMYN12QD0)
 
-Virtual Machine
+**Virtual Machine**
 
 - [you need to learn Virtual Machines RIGHT NOW](https://www.youtube.com/watch?v=wX75Z-4MEoM)
 
-WSL
+**WSL**
 
 - [BEST Web Dev Setup? Windows & Linux at the same time (WSL)](https://www.youtube.com/watch?v=-atblwgc63E)
 - [Install Linux on Windows with WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
 - [How to completely remove a Linux distro from WSL](https://www.windowscentral.com/how-completely-remove-linux-distro-wsl)
 
-Server
+**Server**
 
 - [setup a FREE VPN server in the cloud (AWS)](https://www.youtube.com/watch?v=m-i2JBtG4FE&t=508s)
 

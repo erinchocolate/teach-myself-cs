@@ -21,14 +21,20 @@ This project includes my study notes, resources I use and projects I create when
 
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
 - [Python Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
+  - Pygame
+  - Python GUI
+
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
 - [Java Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
+  - JavaFX
+  - Java Swing
+
 - JavaScript
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
 
 ## Data Structure & Algorithm 
 - [Data Structure & Algorithm](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Data%20Structure%20and%20Algorithm.md) 
-- [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
+- [What is Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
 - Array
 - Linked List
 - Stack
