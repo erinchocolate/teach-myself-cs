@@ -12,11 +12,10 @@ Java Swing
 
 ## Project  - what I do to study the topic⌨️
 
-- [swen 502](https://github.com/erinchocolate/swen502)
+- 
 
 ## Study Note ✍️
 
-[Fundamental](#Fundamental)
-
-[Config](#Config)
+- [JavaFX]
+- [Java Swing]
 

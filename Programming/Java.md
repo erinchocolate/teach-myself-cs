@@ -10,12 +10,14 @@
 ## Project  - what I do to study the topic⌨️
 
 - [swen501](https://github.com/erinchocolate/swen501)
+- [swen502](https://github.com/erinchocolate/swen502)
+- [cs61b](https://github.com/erinchocolate/cs61b)
 
 ## Study Note ✍️
 
 - [Fundamental](#Fundamental)
 - [Advanced](#Advanced)
-- [Framework]()
+- [Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
 
 ## Fundamental
 
