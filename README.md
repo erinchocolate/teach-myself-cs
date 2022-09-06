@@ -26,8 +26,8 @@ This project includes my study notes, resources I use and projects I create when
 
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
 - [Java Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
-  - JavaFX
-  - Java Swing
+  - [JavaFX](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/JavaFX.md)
+  - [Java Swing](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Swing.md)
 
 - JavaScript
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
