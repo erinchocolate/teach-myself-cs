@@ -1,4 +1,4 @@
-# 🔢Data Structure
+# 🔢What is Data Structure
 
 ## What to study - resources I find helpful📚
 
