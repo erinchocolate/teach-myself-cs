@@ -33,7 +33,8 @@ Type
   - Cons: take 2 times memory
 
 Complexity 
-
+![complexity1](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/linkedlist%20complexity1.png)
+![complexity2](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/linkedlist%20complexity2.png)
 
 
 Advantage
