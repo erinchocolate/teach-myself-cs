@@ -34,8 +34,8 @@ This project includes my study notes, resources I use and projects I create when
 
 ## Data Structure & Algorithm 
 - [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
-- Array
-- Linked List
+- [Array](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Array.md)
+- [Linked List](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Linked%20list.md)
 - Stack
 - Queue
 
