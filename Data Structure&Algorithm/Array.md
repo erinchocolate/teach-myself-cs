@@ -44,4 +44,4 @@ Dynamic array
   - Expanding/shirking the array is time consuming
 
 Complexity
-
+![complexity](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Images/array%20complexity.png)
