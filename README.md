@@ -33,8 +33,7 @@ This project includes my study notes, resources I use and projects I create when
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
 
 ## Data Structure & Algorithm 
-- [Data Structure & Algorithm](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Data%20Structure%20and%20Algorithm.md) 
-- [What is Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
+- [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
 - Array
 - Linked List
 - Stack
