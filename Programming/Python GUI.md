@@ -12,3 +12,16 @@
 
 ## Study Note ✍️
 
+User interface
+
+- Layout
+- Button
+- Label
+
+Program logic
+
+- Connect GUI component with function 
+
+Event handling
+
+- Connect keyboard or mouse input with GUI component
