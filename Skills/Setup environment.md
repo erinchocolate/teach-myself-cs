@@ -7,7 +7,7 @@
 
 ## Project  - What I do to study the topic⌨️
 
-- [.dotfiles](https://github.com/erinchocolate/.dotfiles)
+- [portable-environment-setup](https://github.com/erinchocolate/portable-environment-setup)
 
 ## Study Note ✍️
 
