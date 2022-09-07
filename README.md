@@ -21,8 +21,8 @@ This project includes my study notes, resources I use and projects I create when
 
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
 - [Python Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
-  - Pygame
-  - Python GUI
+  - [Pygame](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Pygame.md)
+  - [Python GUI](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20GUI.md)
 
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
 - [Java Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
