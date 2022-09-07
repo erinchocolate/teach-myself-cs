@@ -7,6 +7,9 @@ This project includes my study notes, resources I use and projects I create when
 - [Study programming](https://github.com/erinchocolate/teach-myself-programming/blob/master/How%20To/Study%20programming.md)
 - [Setup environment](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Setup%20environment.md)
 - [Setup Linux](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Setup%20Linux.md)
+- [Debugging](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Debugging.md)
+- [Testing](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Testing.md)
+- [Refactoring](https://github.com/erinchocolate/teach-myself-cs/blob/master/How%20To/Refactoring.md)
 
 ## Tools
 
