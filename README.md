@@ -51,8 +51,10 @@ This project includes my study notes, resources I use and projects I create when
 
 
 
-## Computer Network
 
+## Computer Network
+- [Internet](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Internet.md)
+- [Web](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Web.md)
 
 
 ## Software Engineer
