@@ -20,6 +20,7 @@ This project includes my study notes, resources I use and projects I create when
 - Command line
 - Shell 
 - Docker
+- [JSON](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/JSON.md)
 
 ## Programming
 
@@ -48,9 +49,9 @@ This project includes my study notes, resources I use and projects I create when
 
 
 ## Database
-
-
-
+- [SQL](https://github.com/erinchocolate/teach-myself-cs/blob/master/Database/SQL.md)
+  - [MySQL](https://github.com/erinchocolate/teach-myself-cs/blob/master/Database/MySQL.md)
+- [NoSQL](https://github.com/erinchocolate/teach-myself-cs/blob/master/Database/NoSQL.md)
 
 ## Computer Network
 - [Internet](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Internet.md)
