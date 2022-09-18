@@ -61,6 +61,7 @@ This project includes my study notes, resources I use and projects I create when
 
 - [Design Pattern](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Design%20Pattern.md)
 - [Software Design](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Software%20Design.md)
+- [Object Oriented Design](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Object%20Oriented%20Design.md)
 
 
 
