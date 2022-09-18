@@ -2,8 +2,6 @@
 
 This project includes my study notes, resources I use and projects I create when I study different topic. 
 
-[Courses I took]
-
 ## Skills
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Study%20programming.md)
@@ -59,8 +57,10 @@ This project includes my study notes, resources I use and projects I create when
 - [Internet](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Internet.md)
 - [Web](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Web.md)
 
-
 ## Software Engineer
+
+- [Design Pattern](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Design%20Pattern.md)
+- [Software Design](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Software%20Design.md)
 
 
 
