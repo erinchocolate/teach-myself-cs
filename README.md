@@ -2,6 +2,8 @@
 
 This project includes my study notes, resources I use and projects I create when I study different topic. 
 
+[Courses I took]
+
 ## Skills
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Study%20programming.md)
