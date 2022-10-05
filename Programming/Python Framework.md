@@ -11,5 +11,5 @@
 
 ## Study Note ✍️
 
-- [Pygame]
-- [Python GUI]
+- [Pygame](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Pygame.md)
+- [Python GUI](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20GUI.md)
