@@ -2,40 +2,37 @@
 
 ## What to study - resources I find helpful📚
 
-- [Software Planning and Technical Documentation](https://www.youtube.com/watch?v=2qlcY9LkFik)
+- [Writing great documentation](https://www.youtube.com/watch?v=z3fRu9pkuXE)
+
 - [Writing technical documentation](https://www.youtube.com/watch?v=d6Cs11AZqV4)
 - [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
 
 ## Study Note ✍️
 
-Tips
+Documentation is communication. Great documentation has to server multiple conflicting masters.
 
-- Start with what the reader needs	
+### Why do people read documentation
 
-- Write less - hard to maintain
-- Write the outline first
-- Write readability
+- First contact - new users
+- Education - new&existing users
+- Support - experienced users
+- Troubleshooting - annoyed users
+- Internals - your fellow developers
+- Reference - everyone
 
-Project Documentation
+### What should we document
 
-- Product documentation
-  - Functional and non functional requirements
-  - UX documentation
-    - user persona
-    - user scenarios
-    - user stories
-  - Architecture design document
-    - Presentation
-    - Business logic
-    - Database
-  - Testing documentation
-    - Test plan
-    - Test cases
-
-- Process documentation
-  - Roadmap
-    - Strategy
-    - Technology 
-    - Release
-  - Metrics
-  - Standards
+- Tutorials 
+  - Quick 
+  - Easy 
+- Topic guides
+  - Foster understanding, not parroting
+  - Explain in detail
+  - Tell me the why of the topic
+- Reference
+  - Complete
+  - Designed for experienced users
+  - Give me the how of the topic
+- Troubleshooting
+  - Answers to questions asked in anger
+  - FAQS are good as long as the Qs are really FA'd
