@@ -11,16 +11,15 @@ This project includes my study notes, resources I use and programs I made when I
 - [Testing](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Testing.md)
 - [Refactoring](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Refactoring.md)
 - [Open Source](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Open%20Source.md)
+- [Command Line]
 
 ## Tool
 
 - [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
 - [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
 - [Vim](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/Vim.md)
-- Command line
-- Shell 
-- Docker
 - [JSON](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/JSON.md)
+- [UML]()
 
 ## Programming
 
