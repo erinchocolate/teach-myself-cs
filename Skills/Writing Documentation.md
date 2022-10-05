@@ -37,4 +37,4 @@ Documentation is communication. Great documentation has to server multiple confl
   - Answers to questions asked in anger
   - FAQS are good as long as the Qs are really FA'd
 
-![documentation]([https://github.com/erinchocolate/teach-myself-cs/tree/master/Skills/Images](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Images/documentation.PNG))
+![Documentation](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Images/documentation.PNG)
