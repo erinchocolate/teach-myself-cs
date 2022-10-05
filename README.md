@@ -11,6 +11,7 @@ This project includes my study notes, resources I use and programs I made when I
 - [Testing](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Testing.md)
 - [Refactoring](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Refactoring.md)
 - [Open Source](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Open%20Source.md)
+- [Writing Documentation](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Writing%20Documentation.md)
 - [Command Line]
 
 ## Tool
