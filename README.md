@@ -19,7 +19,7 @@ This project includes my study notes, resources I use and programs I made when I
 - [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
 - [Vim](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/Vim.md)
 - [JSON](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/JSON.md)
-- [UML]()
+- [UML](https://github.com/erinchocolate/teach-myself-cs/blob/master/Tools/UML.md)
 
 ## Programming
 
