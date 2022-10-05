@@ -41,7 +41,7 @@ This project includes my study notes, resources I use and programs I made when I
 - Queue
 
 ## Cloud
-- [AWS Cloud Practitioner]
+- [AWS Cloud Practitioner](https://github.com/erinchocolate/teach-myself-cs/blob/master/Cloud/AWS%20Certified%20Cloud%20Practitioner%20Certification.md)
 
 
 
