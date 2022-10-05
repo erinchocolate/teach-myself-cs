@@ -12,7 +12,7 @@ This project includes my study notes, resources I use and programs I made when I
 - [Refactoring](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Refactoring.md)
 - [Open Source](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Open%20Source.md)
 
-## Tools
+## Tool
 
 - [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
 - [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
@@ -25,17 +25,13 @@ This project includes my study notes, resources I use and programs I made when I
 ## Programming
 
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
-- [Python Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
-  - [Pygame](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Pygame.md)
-  - [Python GUI](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20GUI.md)
-
+- [Python Library & Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
-- [Java Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
-  - [JavaFX](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/JavaFX.md)
-  - [Java Swing](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Swing.md)
-
+- [Java Library & Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
 - JavaScript
+- [Java Script Library & Framework]
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
+- [CSS Framework]
 
 ## Data Structure & Algorithm 
 - [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
