@@ -39,7 +39,8 @@ This project includes my study notes, resources I use and programs I made when I
 - Stack
 - Queue
 
-## Computer Architecture
+## Cloud
+- [AWS Cloud Practitioner]
 
 
 
