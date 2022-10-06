@@ -1,4 +1,4 @@
-# Java Framework🚀
+# Java Library🚀
 
 ## What to study 📚
 
