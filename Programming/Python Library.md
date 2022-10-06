@@ -1,4 +1,4 @@
-# Python Framework🚀
+# Python Library🚀
 
 ## What to study📚
 
