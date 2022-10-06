@@ -22,9 +22,9 @@ This is the record of my journey to become a software engineer. It includes my s
 
 ## Programming
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Python.md)
-- [Python Library](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Framework.md)
+- [Python Library](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Python%20Library.md)
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Java.md)
-- [Java Library](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
+- [Java Library](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Library.md)
 - JavaScript
 - [HTML & CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/HTML%26CSS.md)
 
