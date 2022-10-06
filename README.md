@@ -1,6 +1,6 @@
 # 🤓Teach Myself CS
 
-This project includes my study notes, resources I use and programs I made when I study different topic. 
+This is the record of my journey to become a software engineer. It includes my study notes, resources I find useful and projects I build when I study different topics. 
 
 ## Skill
 
