@@ -73,3 +73,4 @@ The Sprint
 
 ### Spotify Model
 
+![Spotify](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Development/Images/spotify%20model.PNG)
