@@ -2,10 +2,9 @@
 
 ## What to study - resources I find helpful📚
 
-- Fundamental
-  - [Java Tutorial - For Beginners](https://www.youtube.com/watch?v=Yv_4RXyLjL8&t=9868s)
-  - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=13455s)
-  - [Java Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=r3GGV2TG_vw&t=22611s)
+- [Java Tutorial - For Beginners](https://www.youtube.com/watch?v=Yv_4RXyLjL8&t=9868s)
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=13455s)
+- [Java Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=r3GGV2TG_vw&t=22611s)
 
 ## Project  - what I do to study the topic⌨️
 
@@ -14,12 +13,6 @@
 - [cs61b](https://github.com/erinchocolate/cs61b)
 
 ## Study Note ✍️
-
-- [Fundamental](#Fundamental)
-- [Advanced](#Advanced)
-- [Framework](https://github.com/erinchocolate/teach-myself-cs/blob/master/Programming/Java%20Framework.md)
-
-## Fundamental
 
 Variables
 
@@ -126,8 +119,6 @@ Scanner class
 
 PrintStream class
 
-## Advanced
-
 Lambda
 
 Comparator vs Comparable
@@ -174,9 +165,8 @@ Threads
 
 Multiprocessing
 
-Streams
-
 Serialization
 
 Collection framework
-- ![Collection](https://github.com/erinchocolate/teach-myself-programming/blob/master/Programming/Images/Collections-in-Java.png)
+
+![Collections-in-Java](C:\Users\chenm\Downloads\github\teach-myself-cs\Java\Image\Collections-in-Java.png)
