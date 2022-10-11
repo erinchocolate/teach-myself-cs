@@ -38,7 +38,7 @@ This is the record of my journey to become a software engineer. It includes my s
 - [Vim](https://github.com/erinchocolate/teach-myself-cs/blob/master/Linux/Vim.md)
 
 ## Data Structure & Algorithm 
-- [Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
+- [What is Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
 - [Array](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Array.md)
 - [Linked List](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Linked%20list.md)
 
