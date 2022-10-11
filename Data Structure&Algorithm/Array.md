@@ -1,12 +1,5 @@
 # 🔢Array
 
-## What to study - resources I find helpful📚
-
-- [Array Data Structure Tutorial](https://www.youtube.com/watch?v=B2KusJcbVIg&list=PLzMcBGfZo4-la-N5JkwKenICUdu93X_eC&index=4)
-- [An Overview of Arrays and Memory](https://www.youtube.com/watch?v=pmN9ExDf3yQ&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=3)
-- [Dynamic Arrays 🌱](https://www.youtube.com/watch?v=jzJlq35dQII&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=7)
-- https://github.com/williamfiset/Algorithms/blob/master/src/main/java/com/williamfiset/algorithms/datastructures/dynamicarray/IntArray.java
-
 ## My Implementation🧰
 
 

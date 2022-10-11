@@ -2,22 +2,6 @@
 
 ## What to study - resources I find helpful📚
 
-Bubble Sort
-
-- [Bubble Sort Explained](https://www.youtube.com/watch?v=Sr521jBTcto&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC&index=11)		
-
-- [Bubble Sort Algorithm Tutorial in Java](https://www.youtube.com/watch?v=g8qeaEd2jTc)
-- [Bubble sort 🤿](https://www.youtube.com/watch?v=Dv4qLJcxus8)
-
-Selection Sort
-
-- [Selection Sort Explained](https://www.youtube.com/watch?v=0MdfSjSnPe0&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC&index=11)
-- [Selection sort 🔦](https://www.youtube.com/watch?v=EwjnF7rFLns)
-
-Insertion Sort
-
-- [Insertion Sort Explained](https://www.youtube.com/watch?v=GzyOEmu_Jv8&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC&index=12)
-
 
 
 ## My Implementation🧰
