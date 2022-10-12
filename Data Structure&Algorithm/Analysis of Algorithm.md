@@ -1,12 +1,5 @@
 # 🔢Analysis of Algorithm
 
-## What to study - resources I find helpful📚
-
-- [Runtime Complexity Explained](https://www.youtube.com/watch?v=zfrz0XEuqA4&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC&index=4)
-
-- [Analysis of Algorithms](https://algs4.cs.princeton.edu/14analysis/)
-- [Big O Notation & Time Complexity Analysis Tutorial](https://www.youtube.com/watch?v=6aDHWSNKlVw&t=28s)
-
 ## Study Note ✍️
 
 ### How to determine efficiency of a program?
