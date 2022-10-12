@@ -1,6 +1,4 @@
-# 🔢Template
-
-## What to study - resources I find helpful📚
+# 🔢HashTable
 
 ## My Implementation🧰
 
