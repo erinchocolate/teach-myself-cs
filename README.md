@@ -65,24 +65,24 @@ Editor
 
 Java
 
-- [JavaFX](https://github.com/erinchocolate/teach-myself-cs/blob/master/Exercise/JavaFX.md)
-- [Java Swing](https://github.com/erinchocolate/teach-myself-cs/blob/master/Exercise/Java%20Swing.md)
+- [JavaFX](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/JavaFX.md)
+- [Java Swing](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/Java%20Swing.md)
 
 Python
 
-- [Python GUI](https://github.com/erinchocolate/teach-myself-cs/blob/master/Exercise/Python%20GUI.md)
-- [Pygame](https://github.com/erinchocolate/teach-myself-cs/blob/master/Exercise/Pygame.md)
+- [Python GUI](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/Python%20GUI.md)
+- [Pygame](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/Pygame.md)
 
 ## Concept
 
 Network
 
-- [Internet](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Internet.md)
-- [Web](https://github.com/erinchocolate/teach-myself-cs/blob/master/Computer%20Network/Web.md)
+- [Internet](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Internet.md)
+- [Web](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Web.md)
 
-File type
+File format
 
-- [JSON](https://github.com/erinchocolate/teach-myself-cs/blob/master/Concept/JSON.md)
+- [JSON](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/JSON.md)
 
   
 
