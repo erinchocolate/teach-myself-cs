@@ -1,10 +1,5 @@
 # JSON
 
-## What to study - resources I find helpful📚
-
-- [JSON Crash Course](https://www.youtube.com/watch?v=wI1CWzNtE-M)
-- [Learn JSON - Full Crash Course for Beginners](https://www.youtube.com/watch?v=GpOO5iKzOmY)
-
 ## Study Note ✍️
 
 JSON - JavaScript Object Notation

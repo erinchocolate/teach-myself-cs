@@ -1,47 +1,25 @@
 # ☕Java
 
-## What to study - resources I find helpful📚
-
-- [Java Tutorial - For Beginners](https://www.youtube.com/watch?v=Yv_4RXyLjL8&t=9868s)
-- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=13455s)
-- [Java Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=r3GGV2TG_vw&t=22611s)
-
 ## Project  - what I do to study the topic⌨️
 
 - [swen501](https://github.com/erinchocolate/swen501)
 - [swen502](https://github.com/erinchocolate/swen502)
-- [cs61b](https://github.com/erinchocolate/cs61b)
 
-## Study Note ✍️
+## Study note  - what I need to know about the topic✍️
+
+### Fundamental
+
+Basic Syntax
 
 Variables
 
 Operators
 
-Argument and Parameters
-
-- arguments - what you pass to a method 
-- parameter - variables to store arguments 
-
-Primitive Data Types
-
-- boolean, byte, char, short, long, int, float, double
+Data Types
 
 Conditions
 
-- `if`
-- `else if`
-- `else`
-- `switch`
-
 Loops
-
-- While loop
-- Do while loop
-- For loop
-- For each loop
-- `break`
-- `continue`
 
 Class and Object
 
@@ -49,24 +27,11 @@ Fields and Methods
 
 Access modifier
 
-- Public
-- Private
-- Protected
-
 Wrapper class
-
-- Byte, Short, Integer, Long, Float, Double, Boolean, Character
-
-- Provides a way to use primitive data types as reference data types
 
 Constructor
 
-- A constructor method is a special function that creates an instance of the class
-
 Static Methods
-
-- Methods related to the class not object
-- The static method is called at class level
 
 Method overloading
 
@@ -78,22 +43,24 @@ Method overriding
 
 Interface
 
-- An `interface` is a completely "**abstract class**" that is used to group related methods with empty bodies
-
 Abstract class and method
 
 - Abstract class is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class)
+
 - Abstract method can only be used in an abstract class, and it does not have a body. The body is provided by the subclass (inherited from)
 
 Interface v.s Abstract class
 
 - You can implement many interface but can only extend one class
+
 - Any fields declared in interface is static and final
 
 Final class, method and variable
 
 - Final class can not be inherited from
+
 - Final method can not be overridden
+
 - Final variable's value can not be changed
 
 Enums
@@ -108,35 +75,24 @@ Inner Class
 
 Exception handle
 
-- `try` 
-- `catch`
-- `finally`
-- `throw`
-
 File class
 
 Scanner class
 
 PrintStream class
 
-Lambda
-
-Comparator vs Comparable
-
-- [Comparable vs Comparator in Java](https://www.youtube.com/watch?v=oAp4GYprVHM)
+Collection framework
 
 Generics
 
 - Enable types to be parameters when defining: classes, interfaces and methods
 - A benefit is to eliminate the need to create multiple versions of methods or classes for various data types. Use one version for all reference data types
 - Bounded type: you can create the objects of a generic class to have data of specific derived types
-- [Generics In Java - Full Simple Tutorial](https://www.youtube.com/watch?v=K1iu1kXkVoA)
 
 `this` keyword
 
 - Refer to the current object
 - Inside the constructor method to call another constructor method
-- [This Keyword in Java Full Tutorial - How to Use "this"](https://www.youtube.com/watch?v=ETLHbHenW44)
 
 OOP
 
@@ -150,10 +106,13 @@ OOP
   - First type: child class overrides parent class’s method
   - Second type: method overloading
 
+### Dive Deep
+
+Comparator vs Comparable
+
 Pass Reference v.s Value
 
 - Java is always pass by value, not pass by reference
-- [Is Java "pass-by-reference" or "pass-by-value"?](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
 
 How Java works behind the scene
 
@@ -167,6 +126,4 @@ Multiprocessing
 
 Serialization
 
-Collection framework
-
-![Collections-in-Java](C:\Users\chenm\Downloads\github\teach-myself-cs\Java\Image\Collections-in-Java.png)
+Lambda

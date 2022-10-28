@@ -1,11 +1,5 @@
 # UML
 
-## What to study - resources I find helpful📚
-
-- [UML 2.0 Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
-- [UML Diagrams Full Course](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
-- [What is Unified Modeling Language](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language#:~:text=Unified%20Modeling%20Language%20(UML)%20A,documenting%20the%20artifacts%20of%20systems)
-
 ## Study Note ✍️
 
 ### **Structural UML diagrams**

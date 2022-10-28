@@ -1,10 +1,5 @@
 # Internet
 
-## What to study - resources I find helpful📚
-
-- [CS50: Lecture 8](https://cs50.harvard.edu/x/2021/notes/8/)
-- [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-
 ## Study Note ✍️
 
 ### Internet

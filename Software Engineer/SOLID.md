@@ -1,10 +1,4 @@
-# Object Oriented Design
-
-## What to study - resources I find helpful📚
-- [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
-- [Design Patterns in Plain English](https://www.youtube.com/watch?v=NU_1StN5Tkk)
-- [Design Patterns](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f)
-- [Learn SOLID Principles with CLEAN CODE Examples](https://www.youtube.com/watch?v=_jDNAf3CzeY)
+# SOLID
 
 ## Study Note ✍️
 

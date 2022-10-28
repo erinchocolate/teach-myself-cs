@@ -1,46 +1,34 @@
 # 🏗️Setup Development Environment
 
-## What to study - resources I find helpful📚
-
-- [MIT Missing Semester: Command-line Environment](https://missing.csail.mit.edu/2020/command-line/)
-- [Build A Portable Development Environment](https://www.youtube.com/watch?v=70YMTHAZyy4&list=PL1C97G3GhlHdANMFUIXTcFr14R7b7EBj9)
-
 ## Project  - What I do to study the topic⌨️
 
 - [portable-environment-setup](https://github.com/erinchocolate/portable-environment-setup)
 
 ## Study Note ✍️
 
-- [Terminal Multiplexers](#Terminal-Multiplexers)
-- [Dotfiles](#Dotfiles)
-- [Manage Dotfiles](#Manage-Dotfiles)
-- [Shell&Framework](#Shell&Framework)
-- [Terminal Emulator](#Terminal-Emulator)
-- [Other Tools](#Other-Tools)
-
-## Terminal Multiplexers
+### Terminal Multiplexers
 
 Tmux
 
-## Dotfiles
+### Dotfiles
 
-## Manage Dotfiles
+### Manage Dotfiles
 
 Stow
 
-## Shell&Framework
+### Shell&Framework
 
 Fish
 
 Zsh
 
-## Terminal Emulator
+### Terminal Emulator
 
 Alacritty
 
 Cmder
 
-## Other Tools
+### Other Tools
 
 fzf
 

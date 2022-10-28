@@ -1,22 +1,5 @@
 # ⚙️Version Control (Git)
 
-## What to study - resources I find helpful📚
-
-- Basic commands 
-  - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
-- Advanced commands
-  - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
-  - [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk)
-- How Git works 
-  - [MIT Missing Semester: Version Control(Git)](https://missing.csail.mit.edu/2020/version-control/)
-  - [How to explain git in simple words](https://xosh.org/explain-git-in-simple-words/)
-  - [Pro Git](https://git-scm.com/book/en/v2)
-- Git practice
-  - [Git for Professionals Tutorial](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=2049s)
-  - [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
-- Write your own Git
-  - [Write yourself a Git](https://wyag.thb.lt/)
-
 ## Project  - what I do to study the topic⌨️
 
 - 
@@ -27,8 +10,6 @@
 - [Git commands](#Git-commands)
 - [Github](#Github)
 - [Branch Strategy](#Branch-Strategy)
-
-
 
 ## How Git Works
 
@@ -95,8 +76,6 @@ Git *repository* is the data `objects` and `references`.
 ### Staging area
 
 It's why we have `git add` and `git commit` two separate commands.
-
-
 
 ## Git commands
 

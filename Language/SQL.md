@@ -1,11 +1,5 @@
 # SQL - Structured Query Language
 
-## What to study - resources I find helpful📚
-
-- [CS50: Lecture 7](https://cs50.harvard.edu/x/2021/notes/7/)
-- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
-- [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw&t=161s)
-
 ## Project  - what I do to study the topic⌨️
 
 - 

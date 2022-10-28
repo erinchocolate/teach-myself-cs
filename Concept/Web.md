@@ -1,11 +1,5 @@
 # Web
 
-## What to study - resources I find helpful📚
-
-- [CS50: Lecture 8](https://cs50.harvard.edu/x/2021/notes/8/)
-- [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-- [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&t=1504s)
-
 ## Study Note ✍️
 
 Web
