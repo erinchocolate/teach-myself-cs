@@ -1,12 +1,5 @@
 # Writing Documentation
 
-## What to study - resources I find helpful📚
-
-- [Writing great documentation](https://www.youtube.com/watch?v=z3fRu9pkuXE)
-
-- [Writing technical documentation](https://www.youtube.com/watch?v=d6Cs11AZqV4)
-- [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
-
 ## Study Note ✍️
 
 Documentation is communication. Great documentation has to server multiple conflicting masters.

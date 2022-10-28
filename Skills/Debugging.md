@@ -1,19 +1,5 @@
 # Debugging
 
-## What to study - resources I find helpful📚
-
-Overview
-
-- [Debugging Guide](https://sp21.datastructur.es/materials/guides/debugging-guide.html)
-- [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)
-- [Debugging Checklist - How To Debug Anything](https://www.youtube.com/watch?v=e_kogQ1r9u0)
-- [5 Debugging Tips Every Developer Should Know](https://www.youtube.com/watch?v=K6WGRBhacq8)
-
-Debugger
-
-- [How to Use a Debugger - Debugger Tutorial](https://www.youtube.com/watch?v=7qZBwhSlfOo)
-- [How To Debug Java Code The Right Way - Eclipse Debugger Full Tutorial](https://www.youtube.com/watch?v=aqcJsKdjjvU&t=436s)
-
 ## Study Note ✍️
 
 Print debugging
