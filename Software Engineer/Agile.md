@@ -1,11 +1,5 @@
 # Agile
 
-## What to study - resources I find helpful📚
-
-- [Google Agile Project Management](https://www.coursera.org/learn/agile-project-management)
-- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
-- [The 2020 Scrum Guide](https://scrumguides.org/scrum-guide.html#product-backlog)
-
 ## Study Note ✍️
 
 ### Agile values

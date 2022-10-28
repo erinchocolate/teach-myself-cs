@@ -5,7 +5,6 @@ This is the record of my journey to become a software engineer. It includes my s
 ## Start
 
 - [Study programming](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Study%20programming.md)
-- 
 
 ## Skill
 - [Debugging](https://github.com/erinchocolate/teach-myself-cs/blob/master/Skills/Debugging.md)
@@ -20,21 +19,25 @@ Version Control
 
 - [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
 
+Software Engineer
+
+- [UML](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/UML.md)
+
 IDE
 
-- [IDE](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/IDE.md)
+- [VScode](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/VSCode.md)
 
 Editor
 
-- [Vim](https://github.com/erinchocolate/teach-myself-cs/blob/master/Linux/Vim.md)
+- [Vim](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Vim.md)
 
 ## Language
-- [HTML](https://github.com/erinchocolate/teach-myself-cs/blob/master/Frontend/HTML.md)
-- [CSS](https://github.com/erinchocolate/teach-myself-cs/blob/master/Frontend/CSS.md)
+- [HTML](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/HTML.md)
+- [CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/CSS.md)
 
-- [Java](https://github.com/erinchocolate/teach-myself-cs/blob/master/Backend/Java.md)
-- [Python](https://github.com/erinchocolate/teach-myself-cs/blob/master/Backend/Python.md)
-- [SQL](https://github.com/erinchocolate/teach-myself-cs/blob/master/Database/SQL.md)
+- [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/Java.md)
+- [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/Python.md)
+- [SQL](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/SQL.md)
 
 ## Linux
 - [Setup Linux](https://github.com/erinchocolate/teach-myself-cs/blob/master/Linux/Setup%20Linux.md)
@@ -42,14 +45,21 @@ Editor
 
 ## Data Structure & Algorithm 
 - [What is Data Structure](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure&Algorithm/Data%20Structure.md)
+- [Analysis of Algorithm](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Analysis%20of%20Algorithm.md)
 - [Array](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Array.md)
 - [Linked List](https://github.com/erinchocolate/teach-myself-cs/blob/master/Data%20Structure%26Algorithm/Linked%20list.md)
+- [Stack](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Stack.md)
+- [Queue](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Queue.md)
+- [Heap](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Heap.md)
+- [Tree](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Tree.md)
+- [Graph](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Graph.md)
+- [Sorting](https://github.com/erinchocolate/teach-myself-programming/blob/master/Data%20Structure%26Algorithm/Sorting.md)
 
 ## Software Engineer
 - [Agile](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Agile.md)
-- [UML](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/UML.md)
 - [Design Pattern](https://github.com/erinchocolate/teach-myself-cs/blob/master/Software%20Engineer/Design%20Pattern.md)
-- [DevOps](https://github.com/erinchocolate/teach-myself-cs/blob/master/DevOps/DevOps.md)
+- [SOLID](https://github.com/erinchocolate/teach-myself-programming/blob/master/Software%20Engineer/SOLID.md)
+- [DevOps](https://github.com/erinchocolate/teach-myself-programming/blob/master/Software%20Engineer/DevOps.md)
 
 ## Library & Framework
 

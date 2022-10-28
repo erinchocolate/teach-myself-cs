@@ -1,10 +1,5 @@
 # DevOps
 
-## What to study - resources I find helpful📚
-
-- [What is DevOps?](https://www.youtube.com/watch?v=0yWAtQ6wYNM)
-- [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY&t=535s)
-
 ## Study Note ✍️
 
 Software development process
