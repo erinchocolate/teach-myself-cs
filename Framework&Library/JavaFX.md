@@ -2,7 +2,13 @@
 
 ## Project  - what I do to study the topic⌨️
 
-- [wellington-train-helper](https://github.com/erinchocolate/wellington-train-helper)
+- [Wellington Train Helper](https://github.com/erinchocolate/wellington-train-helper)
+- [Animation](https://github.com/erinchocolate/swen502/tree/master/Animation)
+- [Number Guessing](https://github.com/erinchocolate/swen502/tree/master/Number%20Guessing)
+
+- [Browser](https://github.com/erinchocolate/swen502/tree/master/Browser)
+
+- [PersonBST](https://github.com/erinchocolate/swen502/tree/master/PersonApp)
 
 ## Study Note ✍️
 
