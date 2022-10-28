@@ -2,7 +2,7 @@
 
 ## Project  - what I do to study the topic⌨️
 
-- 
+- [snake](https://github.com/erinchocolate/snake)
 
 ## Study Note ✍️
 
