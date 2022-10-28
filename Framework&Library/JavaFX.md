@@ -1,10 +1,5 @@
 # JavaFX
 
-## What to study - resources I find helpful📚
-
-- [JavaFX](https://www.youtube.com/watch?v=_7OM-cMYWbQ&list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev)
-- [Javafx GUI using SceneBuilder](https://www.youtube.com/playlist?list=PLoodc-fmtJNYbs-gYCdd5MYS4CKVbGHv2)
-
 ## Project  - what I do to study the topic⌨️
 
 - [wellington-train-helper](https://github.com/erinchocolate/wellington-train-helper)

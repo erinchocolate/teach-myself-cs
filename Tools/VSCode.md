@@ -1,6 +1,10 @@
-# Visual Studio Shortcuts
+# Visual Studio 
 
-## Open/View
+
+
+## Hotkeys
+
+**Open/View**
 
 | Shortcut     | Action                   |
 | ------------ | ------------------------ |
@@ -11,7 +15,7 @@
 | Shift+Ctrl+N | Open New Window/Instance |
 | Ctrl+W       | Close Window             |
 
-## Working With Files
+**Working With Files**
 
 | Shortcut     | Action                        |
 | ------------ | ----------------------------- |
@@ -25,15 +29,13 @@
 | Shift+Ctrl+T | Reopen Files                  |
 | Ctrl+\       | Spilt Editor                  |
 
-## Tabs
+**Tabs**
 
 | Shortcut     | Action                       |
 | ------------ | ---------------------------- |
 | Ctrl+shift+T | Reopen a tab you just closed |
 | Alt+number   | Go to specific tab you open  |
 | Ctrl+W       | Close a tab                  |
-
-## Code Editing
 
 ### Highlighting
 
