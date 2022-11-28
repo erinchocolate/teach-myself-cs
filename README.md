@@ -68,12 +68,3 @@ Python
 - [Python GUI](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/Python%20GUI.md)
 - [Pygame](https://github.com/erinchocolate/teach-myself-programming/blob/master/Framework%26Library/Pygame.md)
 
-## Concept
-
-Network
-
-- [Internet](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Internet.md)
-- [Web](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Web.md)
-
-
-
