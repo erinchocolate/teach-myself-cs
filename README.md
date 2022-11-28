@@ -15,20 +15,14 @@ This is the record of my journey to become a software engineer. It includes my s
 
 ## Tool
 
-Version Control
-
-- [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
-
 Software Engineer
 
+- [Git](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Git.md)
 - [UML](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/UML.md)
 
-IDE
+IDE & Editor
 
 - [VScode](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/VSCode.md)
-
-Editor
-
 - [Vim](https://github.com/erinchocolate/teach-myself-programming/blob/master/Tools/Vim.md)
 
 ## Language
