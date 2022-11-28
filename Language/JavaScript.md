@@ -54,6 +54,14 @@ promise
 - object that encapsulates the result of an asynchronous operation
 - let asynchronous methods return values like synchronous methods
 
+async
+
+- makes a function return a Promise
+
+await
+
+- makes an async function wait for a Promise
+
 function
 
 - function expression
@@ -65,9 +73,20 @@ this keyword
 
 - reference the 
 
-async and await
-
 DOM
 
 - Document Object Model
 - An interface for changing the content of a page
+
+JSON - JavaScript Object Notation
+
+- Lightweight data-interchange format
+- Based on a subset of JavaScript
+- Easy to read and write
+- Can be used with most modern languages
+
+JSON Syntax
+
+- Uses key/value pairs
+- Uses double quotes
+- Must use the specified data types

@@ -80,9 +80,5 @@ Network
 - [Internet](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Internet.md)
 - [Web](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/Web.md)
 
-File format
 
-- [JSON](https://github.com/erinchocolate/teach-myself-programming/blob/master/Concept/JSON.md)
-
-  
 
