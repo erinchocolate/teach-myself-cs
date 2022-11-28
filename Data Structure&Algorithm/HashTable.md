@@ -1,13 +1,5 @@
 # 🔢HashTable
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 A data structure that stores unique keys to values. 

@@ -1,13 +1,5 @@
 # 🔢Tree
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 Tree 

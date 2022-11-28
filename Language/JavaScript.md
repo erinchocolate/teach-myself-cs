@@ -90,3 +90,7 @@ JSON Syntax
 - Uses key/value pairs
 - Uses double quotes
 - Must use the specified data types
+
+AJAX
+
+Fetch API

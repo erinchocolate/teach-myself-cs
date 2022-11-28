@@ -1,13 +1,5 @@
 # 🔢Linked list
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 What is linked list

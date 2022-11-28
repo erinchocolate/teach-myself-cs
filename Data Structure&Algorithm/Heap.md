@@ -1,13 +1,5 @@
 # 🔢Heap
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 An array visualized as a nearly complete binary tree

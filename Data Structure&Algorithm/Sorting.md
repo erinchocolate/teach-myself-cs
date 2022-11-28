@@ -1,13 +1,5 @@
 # 🔢Sorting
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 ### Bubble sort

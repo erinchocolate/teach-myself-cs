@@ -1,13 +1,5 @@
 # 🔢Array
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 Overview

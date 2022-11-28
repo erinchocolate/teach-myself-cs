@@ -1,13 +1,5 @@
 # 🔢Stack
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 Stack is an abstract data structure, it can be implemented by dynamic array and linked list

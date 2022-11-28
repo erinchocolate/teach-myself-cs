@@ -1,13 +1,5 @@
 # 🔢Queue
 
-## My Implementation🧰
-
-
-
-## LeetCode✏️
-
-
-
 ## Study Note ✍️
 
 Queue is an abstract data structure, it can be implemented by array or linked list
