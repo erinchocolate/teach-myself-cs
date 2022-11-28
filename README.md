@@ -34,9 +34,10 @@ Editor
 ## Language
 - [HTML](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/HTML.md)
 - [CSS](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/CSS.md)
-
+- [JavaScript](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/JavaScript.md)
 - [Java](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/Java.md)
 - [Python](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/Python.md)
+- [PHP](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/PHP.md)
 - [SQL](https://github.com/erinchocolate/teach-myself-programming/blob/master/Language/SQL.md)
 
 ## Linux
