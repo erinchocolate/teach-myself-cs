@@ -6,6 +6,37 @@
 
 ## Study Note ✍️
 
+High-level
+
+Garbage-collected
+
+Interpreted or just-in-time compiled
+
+Multi-paradigm
+
+Prototype-based object-oriented
+
+First-class functions
+
+- functions are simply treated as variables. We can pass them into other functions, and return them from functions
+
+Dynamic
+
+Single-threaded
+
+Non-blocking event loop
+
+Runtime
+
+- Browser
+  - Engine
+  - Web APIs
+  - Callback queue
+- Node.Js
+  - Engine
+  - Thread Pool
+  - Callback queue
+
 primatives
 
 - Boolean
