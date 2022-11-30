@@ -37,6 +37,16 @@ Runtime
   - Thread Pool
   - Callback queue
 
+Scope
+
+- global
+- function
+- block
+
+Hoisting
+
+- Make some types of variables accessible in the code before they are actually declared
+
 primatives
 
 - Boolean
@@ -96,8 +106,7 @@ await
 function
 
 - function expression
-- higher Order Function
-- closure
+- function declaration
 - arrow function
 
 this keyword
